@@ -1,0 +1,4 @@
+.build/
+Tesserae.app/
+.DS_Store
+*.xcodeproj
